@@ -1,3 +1,4 @@
+[https://github.com/user-attachments/assets/c75c2197-0df9-4b46-8167-479d9a9032ee]
 # 条件
 - 自作譜面をつかうこと
 - speed譜面であること (休憩地帯やアクセントで他傾向はOK)
