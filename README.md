@@ -12,4 +12,12 @@
 
 バナー, アイコンは自作してね
 
+# 提出方法
+## 方法1 pull requestする
+このリポジトリにreq送ってもらったら俺がマージします
+
+## 方法2 フォーム
+https://docs.google.com/forms/d/e/1FAIpQLScSg1qUewaCqR8z7hf7BquWU1kA-KLaJriu08tAFbhOl2OzHA/viewform
+上のリンクにzipファイル形式で送ってください (メアドなどの個人情報はたぶん送信されないです)
+
 SigWifeStarryさんありがとう
